@@ -1,0 +1,1 @@
+# Fine-Tuning-CLIP-on-Title-Thumbnail-Pairs-for-Enhanced-Multimodal-Learning
