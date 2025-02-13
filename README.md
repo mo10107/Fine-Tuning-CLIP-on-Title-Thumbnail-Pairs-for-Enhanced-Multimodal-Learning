@@ -82,11 +82,3 @@ The model is evaluated on its ability to correctly retrieve corresponding text-i
 - **Triplet Accuracy**: Checks if the model correctly associates images with their matching titles.
 - **Recall@K**: Measures how often the correct title appears in the top-K predictions.
 
-## Future Improvements
-- Experimenting with different trainable layers to optimize model efficiency.
-- Extending dataset with additional multimodal pairs.
-- Deploying model for real-time image-text retrieval tasks.
-
-## License
-This project is open-source and available under the MIT License.
-
